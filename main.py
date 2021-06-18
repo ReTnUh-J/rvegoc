@@ -94,10 +94,11 @@ yes = config.get('rvegoc', 'yes').split()
 random_color=[programcolor.HEADER,programcolor.IMPORTANT,programcolor.NOTICE,programcolor.OKBLUE,programcolor.OKGREEN,programcolor.WARNING,programcolor.RED,programcolor.END,programcolor.UNDERLINE,programcolor.LOGGING]
 random.shuffle(random_color)
 rvegoc_emblem = random_color[0] + '''
- ____  _  _  ____  ___   __    ___       
-(  _ \/ )( \(  __)/ __) /  \  / __)      
- )   /\ \/ / ) _)( (_ \(  O )( (__       
-(__\_) \__/ (____)\___/ \__/  \___)      
+          ██████  ██    ██ ███████  ██████   ██████   ██████     
+          ██   ██ ██    ██ ██      ██       ██    ██ ██          
+          ██████  ██    ██ █████   ██   ███ ██    ██ ██          
+          ██   ██  ██  ██  ██      ██    ██ ██    ██ ██          
+          ██   ██   ████   ███████  ██████   ██████   ██████      
 '''
 rvegoc_pro = "rvegoc ~# "
 already_installed_system = "Already Installed In The System"
@@ -133,15 +134,7 @@ class rvegoc:
     def __init__(self):
         clearscript()
         self.createFolders()
-        print (rvegoc_emblem + programcolor.RED + '''
-        
-          ██████  ██    ██ ███████  ██████   ██████   ██████     
-          ██   ██ ██    ██ ██      ██       ██    ██ ██          
-          ██████  ██    ██ █████   ██   ███ ██    ██ ██          
-          ██   ██  ██  ██  ██      ██    ██ ██    ██ ██          
-          ██   ██   ████   ███████  ██████   ██████   ██████     
-                                                       
-                                                       
+        print (rvegoc_emblem + programcolor.RED + '''      
        }--*-*-*-*-*-*-{+} Coded By ReTnUh-J {+}-*-*-*-*-*--*-{
         }--------{+}  GitHub.com/ReTnUh-J/rvegoc {+}--------{
     ''' + programcolor.END + '''
