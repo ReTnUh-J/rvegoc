@@ -145,17 +145,17 @@ class rvegoc:
        }--*-*-*-*-*-*-{+} Coded By ReTnUh-J {+}-*-*-*-*-*--*-{
         }--------{+}  GitHub.com/ReTnUh-J/rvegoc {+}--------{
     ''' + programcolor.END + '''
-       [1]->Information Gathering
-       [2]->Password Attacks
-       [3]->Wireless Testing
-       [4]->Exploitation Tools
-       [5]->Sniffing & Spoofing
-       [6]->Web Hacking
-       [7]->Private Web Hacking
-       [8]->Post Exploitation
-       [0]->INSTALL & UPDATE
-       [11]->CONTRIBUTORS
-       [99]->EXIT\n
+       [1]-> Information Gathering
+       [2]-> Password Attacks
+       [3]-> Wireless Testing
+       [4]-> Exploitation Tools
+       [5]-> Sniffing & Spoofing
+       [6]-> Web Hacking
+       [7]-> Private Web Hacking
+       [8]-> Post Exploitation
+       [0]-> INSTALL & UPDATE
+       [11]-> CONTRIBUTORS
+       [99]-> EXIT\n
      ''')
         pchoice = input(rvegoc_pro)
         clearscript()
