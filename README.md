@@ -1,4 +1,4 @@
-A Penetration Testing Framework That Will Have Most Of The Tools And Scripts For Hackers And Security Researchers. Work With Python 3 Version.  {NEXT COMING UPDATE. NEW TOOLS AND SCRIPTS WILL BE AVAILABLE} {**** WILL CONTRIBUTE IN THIS PROJECT SOON}
+A Penetration Testing Framework That Will Have Most Of The Tools And Scripts For Hackers And Security Researchers. Work With Python 3 Version.  {NEXT COMING UPDATE. NEW TOOLS AND SCRIPTS WILL BE AVAILABLE} {Z0xxHUM and his team WILL CONTRIBUTE IN THIS PROJECT SOON}
 
 Future Enhacements: 1) RFID CARD CLONING
                   : 2) PASSPORT CHIP CLONING
